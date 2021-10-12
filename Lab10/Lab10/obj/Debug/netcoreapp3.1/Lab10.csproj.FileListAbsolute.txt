@@ -1,0 +1,3 @@
+C:\Users\User\Documents\439122\saifutdinova_439122\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.csprojAssemblyReference.cache
+C:\Users\User\Documents\439122\saifutdinova_439122\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfoInputs.cache
+C:\Users\User\Documents\439122\saifutdinova_439122\Lab10\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfo.cs
