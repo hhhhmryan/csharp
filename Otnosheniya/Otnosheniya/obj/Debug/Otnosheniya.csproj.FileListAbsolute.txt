@@ -1,0 +1,9 @@
+C:\Users\User\Documents\439122\Otnosheniya\Otnosheniya\bin\Debug\Otnosheniya.exe.config
+C:\Users\User\Documents\439122\Otnosheniya\Otnosheniya\bin\Debug\Otnosheniya.exe
+C:\Users\User\Documents\439122\Otnosheniya\Otnosheniya\bin\Debug\Otnosheniya.pdb
+C:\Users\User\Documents\439122\Otnosheniya\Otnosheniya\obj\Debug\Otnosheniya.csprojAssemblyReference.cache
+C:\Users\User\Documents\439122\Otnosheniya\Otnosheniya\obj\Debug\Otnosheniya.Properties.Resources.resources
+C:\Users\User\Documents\439122\Otnosheniya\Otnosheniya\obj\Debug\Otnosheniya.csproj.GenerateResource.cache
+C:\Users\User\Documents\439122\Otnosheniya\Otnosheniya\obj\Debug\Otnosheniya.exe
+C:\Users\User\Documents\439122\Otnosheniya\Otnosheniya\obj\Debug\Otnosheniya.pdb
+C:\Users\User\Documents\439122\Otnosheniya\Otnosheniya\obj\Debug\Otnosheniya.Form1.resources

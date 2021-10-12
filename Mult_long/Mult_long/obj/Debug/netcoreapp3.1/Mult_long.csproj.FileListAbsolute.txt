@@ -1,0 +1,11 @@
+C:\Users\User\Documents\439122\Mult_long\Mult_long\bin\Debug\netcoreapp3.1\Mult_long.exe
+C:\Users\User\Documents\439122\Mult_long\Mult_long\bin\Debug\netcoreapp3.1\Mult_long.deps.json
+C:\Users\User\Documents\439122\Mult_long\Mult_long\bin\Debug\netcoreapp3.1\Mult_long.runtimeconfig.json
+C:\Users\User\Documents\439122\Mult_long\Mult_long\bin\Debug\netcoreapp3.1\Mult_long.runtimeconfig.dev.json
+C:\Users\User\Documents\439122\Mult_long\Mult_long\bin\Debug\netcoreapp3.1\Mult_long.dll
+C:\Users\User\Documents\439122\Mult_long\Mult_long\bin\Debug\netcoreapp3.1\Mult_long.pdb
+C:\Users\User\Documents\439122\Mult_long\Mult_long\obj\Debug\netcoreapp3.1\Mult_long.csprojAssemblyReference.cache
+C:\Users\User\Documents\439122\Mult_long\Mult_long\obj\Debug\netcoreapp3.1\Mult_long.AssemblyInfoInputs.cache
+C:\Users\User\Documents\439122\Mult_long\Mult_long\obj\Debug\netcoreapp3.1\Mult_long.AssemblyInfo.cs
+C:\Users\User\Documents\439122\Mult_long\Mult_long\obj\Debug\netcoreapp3.1\Mult_long.dll
+C:\Users\User\Documents\439122\Mult_long\Mult_long\obj\Debug\netcoreapp3.1\Mult_long.pdb

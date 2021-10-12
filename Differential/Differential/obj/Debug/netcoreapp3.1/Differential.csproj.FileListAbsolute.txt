@@ -1,0 +1,11 @@
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\bin\Debug\netcoreapp3.1\Differential.exe
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\bin\Debug\netcoreapp3.1\Differential.deps.json
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\bin\Debug\netcoreapp3.1\Differential.runtimeconfig.json
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\bin\Debug\netcoreapp3.1\Differential.runtimeconfig.dev.json
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\bin\Debug\netcoreapp3.1\Differential.dll
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\bin\Debug\netcoreapp3.1\Differential.pdb
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\obj\Debug\netcoreapp3.1\Differential.csprojAssemblyReference.cache
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\obj\Debug\netcoreapp3.1\Differential.AssemblyInfoInputs.cache
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\obj\Debug\netcoreapp3.1\Differential.AssemblyInfo.cs
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\obj\Debug\netcoreapp3.1\Differential.dll
+C:\Users\User\Documents\439122\saifutdinova_439122\Differential\Differential\obj\Debug\netcoreapp3.1\Differential.pdb
