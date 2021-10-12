@@ -1,0 +1,11 @@
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\bin\Debug\netcoreapp3.1\lab13task2.exe
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\bin\Debug\netcoreapp3.1\lab13task2.deps.json
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\bin\Debug\netcoreapp3.1\lab13task2.runtimeconfig.json
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\bin\Debug\netcoreapp3.1\lab13task2.runtimeconfig.dev.json
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\bin\Debug\netcoreapp3.1\lab13task2.dll
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\bin\Debug\netcoreapp3.1\lab13task2.pdb
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\obj\Debug\netcoreapp3.1\lab13task2.csprojAssemblyReference.cache
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\obj\Debug\netcoreapp3.1\lab13task2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\obj\Debug\netcoreapp3.1\lab13task2.AssemblyInfo.cs
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\obj\Debug\netcoreapp3.1\lab13task2.dll
+C:\Users\User\Documents\439122\saifutdinova_439122\lab13task2\lab13task2\obj\Debug\netcoreapp3.1\lab13task2.pdb
